@@ -1,5 +1,5 @@
 {
-    "name": "hamzadurak/mgp25",
+    "name": "alisoleimani/instap-private-api",
     "description": "Instagram's private API for PHP",
     "license": [
         "RPL-1.5",
@@ -11,11 +11,6 @@
         "API",
         "PHP"
     ],
-    "support": {
-        "issues": "https://github.com/mgp25/Instagram-API/issues",
-        "wiki": "https://github.com/mgp25/Instagram-API/wiki",
-        "source": "https://github.com/mgp25/Instagram-API/"
-    },
     "authors": [
         {
             "name": "Aliakbar Soleimani",
