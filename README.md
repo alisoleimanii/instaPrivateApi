@@ -20,7 +20,7 @@ We use composer to distribute our code effectively and easily. If you do not alr
 
 Once you have composer installed, you can do the following:
 ```sh
-composer require hamzadurak/mgp25
+composer require alisoleimani/instap-private-api
 ```
 
 ```php
@@ -32,7 +32,7 @@ $ig = new \InstagramAPI\Instagram();
 If you want to test new and possibly unstable code that is in the master branch, and which hasn't yet been released, then you can do the following (at your own risk):
 
 ```sh
-composer require hamzadurak/mgp25 dev-master
+composer require alisoleimani/instap-private-api
 ```
 
 #### _Warning about moving data to a different server_
