@@ -6,6 +6,7 @@ This is a PHP library which emulates Instagram's Private API. This library is pa
 
 **Frequently Asked Questions:** [F.A.Q.](https://github.com/mgp25/Instagram-API/wiki/FAQ)
 
+[Techno-mag](https://techno-mag.ir)
 
 **mgp25**
 ----------
